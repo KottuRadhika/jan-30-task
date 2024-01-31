@@ -1,0 +1,16 @@
+li:hover{
+    background-color: burlywood;
+}
+body{
+ background-image:url("https://img.freepik.com/free-photo/pouch-map-toy-airplane-blue-background-with-space-writing-text_23-2147958180.jpg?w=996&t=st=1706665364~exp=1706665964~hmac=4e8952f6b36909a872bab300c5c876c8c6076c0b3f149b7a1737e84123d663a4");
+background-repeat: no-repeat;
+background-size: cover;
+}
+img{
+    width:50%;
+    height:50%;
+    margin-right:30px;
+}
+p{
+    margin-left: 20px;
+}

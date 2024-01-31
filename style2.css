@@ -1,0 +1,8 @@
+body{
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/08/Free-Travel-Backgrounds-Download-HD.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+li:hover{
+    background-color: burlywood;
+}

@@ -1,0 +1,33 @@
+
+li:hover{
+    background-color: burlywood;
+}
+body{
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.psbSiMMCN2NfWB_CoqcpHQHaDm&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    width:20px;
+    height:20px;
+}
+header{
+    background-color: yellow;
+    width:auto;
+    height:50px;
+    
+}
+label{
+    margin-top:20px;
+}
+.righticons{
+    float:right;
+    margin-right: 30px;
+    
+    
+}
+.img1{
+    width:20px;
+    height:20px;
+    
+}
